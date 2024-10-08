@@ -6,3 +6,4 @@ myenv
 env
 venv
 .env
+.DS_Store
